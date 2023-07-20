@@ -22,3 +22,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: CIViC
       href: https://civicdb.org
+assignees:
+  - acoffman
