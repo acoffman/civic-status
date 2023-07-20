@@ -11,7 +11,6 @@ sites:
     url: https://civicdb.org/api/graphiql
 
 status-website:
-  #baseUrl: /civic-status
   cname: status.adamcoffman.dev
   logoUrl: https://raw.githubusercontent.com/griffithlab/civic-v2/main/client/src/assets/images/civic-logo_sidebar-expanded.png
   name: CIViC
