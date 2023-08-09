@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 210,
-    "timeWeek": 241,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 314,
+    "timeDay": 218,
+    "timeWeek": 253,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.civicdb.org.ico",
     "slug": "ci-vi-c-docs",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 620,
-    "timeDay": 606,
-    "timeWeek": 901,
-    "timeMonth": 620,
-    "timeYear": 620,
-    "dailyMinutesDown": {
-      "2023-08-08": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 604,
+    "timeDay": 419,
+    "timeWeek": 493,
+    "timeMonth": 604,
+    "timeYear": 604,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CIViC API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 56,
-    "timeWeek": 48,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "time": 66,
+    "timeDay": 55,
+    "timeWeek": 52,
+    "timeMonth": 66,
+    "timeYear": 66,
     "dailyMinutesDown": {}
   }
 ]
