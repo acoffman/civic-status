@@ -24,17 +24,17 @@
     "slug": "ci-vi-c-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
+    "time": 585,
     "timeDay": 467,
     "timeWeek": 585,
     "timeMonth": 601,
-    "timeYear": 586,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-12-09": 7
+      "2023-12-09": 0
     }
   },
   {
