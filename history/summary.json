@@ -6,25 +6,23 @@
     "slug": "ci-vi-c-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 445,
     "timeWeek": 371,
     "timeMonth": 323,
     "timeYear": 320,
-    "dailyMinutesDown": {
-      "2023-12-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CIViC Docs",
     "url": "https://docs.civicdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.civicdb.org.ico",
     "slug": "ci-vi-c-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +33,9 @@
     "timeWeek": 633,
     "timeMonth": 614,
     "timeYear": 589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   },
   {
     "name": "CIViC API",
