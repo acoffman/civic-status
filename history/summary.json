@@ -22,7 +22,7 @@
     "url": "https://docs.civicdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.civicdb.org.ico",
     "slug": "ci-vi-c-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 619,
     "timeMonth": 611,
     "timeYear": 588,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   },
   {
     "name": "CIViC API",
