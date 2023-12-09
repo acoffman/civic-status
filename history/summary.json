@@ -22,19 +22,19 @@
     "url": "https://docs.civicdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/docs.civicdb.org.ico",
     "slug": "ci-vi-c-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 349,
-    "timeWeek": 619,
-    "timeMonth": 611,
-    "timeYear": 588,
+    "time": 589,
+    "timeDay": 540,
+    "timeWeek": 633,
+    "timeMonth": 614,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2023-12-09": 0
+      "2023-12-09": 9
     }
   },
   {
