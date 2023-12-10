@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 445,
-    "timeWeek": 371,
+    "timeDay": 366,
+    "timeWeek": 376,
     "timeMonth": 323,
     "timeYear": 320,
     "dailyMinutesDown": {}
@@ -24,18 +24,16 @@
     "slug": "ci-vi-c-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 585,
-    "timeDay": 445,
-    "timeWeek": 564,
-    "timeMonth": 594,
+    "timeDay": 515,
+    "timeWeek": 541,
+    "timeMonth": 599,
     "timeYear": 585,
-    "dailyMinutesDown": {
-      "2023-12-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CIViC API",
@@ -49,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
-    "timeDay": 87,
+    "timeDay": 39,
     "timeWeek": 67,
     "timeMonth": 62,
     "timeYear": 63,
