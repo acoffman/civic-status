@@ -1,7 +1,7 @@
 url: https://civicdb.org/api/graphiql
-status: down
-code: 502
-responseTime: 86
-lastUpdated: 2024-04-19T15:53:47.441Z
+status: up
+code: 200
+responseTime: 30
+lastUpdated: 2024-04-19T16:10:19.693Z
 startTime: 2023-07-20T15:35:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
