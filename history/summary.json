@@ -40,17 +40,19 @@
     "url": "https://civicdb.org/api/graphiql",
     "icon": "https://icons.duckduckgo.com/ip3/civicdb.org.ico",
     "slug": "ci-vi-c-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 25,
-    "timeWeek": 64,
+    "timeDay": 56,
+    "timeWeek": 67,
     "timeMonth": 73,
     "timeYear": 66,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-19": 0
+    }
   }
 ]
