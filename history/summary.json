@@ -4,11 +4,11 @@
     "url": "https://civicdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/civicdb.org.ico",
     "slug": "ci-vi-c-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 364,
     "timeDay": 3040,
@@ -16,7 +16,7 @@
     "timeMonth": 603,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-09-24": 58
+      "2024-09-24": 60
     }
   },
   {
@@ -43,10 +43,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/civicdb.org.ico",
     "slug": "ci-vi-c-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 64,
     "timeDay": 24,
@@ -54,7 +54,7 @@
     "timeMonth": 59,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2024-09-24": 10,
+      "2024-09-24": 25,
       "2024-04-19": 17
     }
   }
