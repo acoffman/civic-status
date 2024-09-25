@@ -4,7 +4,7 @@
     "url": "https://civicdb.org",
     "icon": "https://icons.duckduckgo.com/ip3/civicdb.org.ico",
     "slug": "ci-vi-c-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "53.87%",
     "uptimeWeek": "93.41%",
@@ -16,6 +16,7 @@
     "timeMonth": 602,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-09-24": 664
     }
   },
